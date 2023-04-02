@@ -11,3 +11,39 @@ body{
     font-weight: 700;
     font-size: 22px;
 }
+/* carasol */
+.carousel-caption h5{
+    font-weight: 700;
+    font-size: 48px;
+}
+.carousel-caption p{
+    font-weight: 300;
+    font-size: 16px;
+} 
+.carousel-caption a{
+    background: #fff;
+    padding: 10px 30px !important;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 10px !important;
+}
+/* Every moment is Precious start */
+.write h5{
+    font-weight: 700;
+    font-size: 38px;
+    color: #0A0826;
+}
+.write p{
+    font-weight: 700;
+    font-size: 16px;
+}
+.write a{
+    text-decoration: none;
+    background: #3F87F5;
+    Padding:10px 24px !important;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+}
