@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    color: #000;
+    font-weight: 500;
+    font-size: 16px;
+    margin-right: 26px !important;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 22px;
+}
