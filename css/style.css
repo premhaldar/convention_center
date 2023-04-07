@@ -47,3 +47,55 @@ body{
     font-weight: 700;
     font-size: 16px;
 }
+/* packages start */
+.cart{
+    padding: 50px 30px;
+    border-radius: 26px;
+    transition: .4s;
+}
+.cart:hover{
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+.cart:hover p{
+    color: #fff;
+}
+.cart:hover .icon{
+    color: #fff;
+}
+.cart:hover .button{
+    background: #fff;
+}
+.cart h1{
+    font-weight: 700;
+    font-size:36px ;
+}
+.cart h2{
+    font-weight: 700;
+    font-size: 28px;
+}
+.cart p{
+    color: #848199;
+    font-weight: 400;
+    font-size: 15px;
+}
+.icon{
+    font-weight: 400;
+    font-size: 15px;
+    color:#848199 ;
+    margin-top: 15px;
+}
+.button{
+    background: #F496D1;
+    text-align: center;
+    padding: 10px 25px;
+    margin-top: 15px;
+    border-radius: 24px;
+}
+.button a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    color: #3F87F5;
+
+}
