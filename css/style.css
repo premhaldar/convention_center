@@ -99,3 +99,50 @@ body{
     color: #3F87F5;
 
 }
+/* happy clint */
+.card{
+    text-align: center !important;
+    box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    border: none !important;
+}
+.card p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #6C6C6C;
+    padding: 21px 42px;
+}
+.card h5{
+    font-weight: 600;
+    font-size: 14px;
+    color: #0C1920;
+}
+.card small{
+    font-weight: 600;
+    font-size: 16px;
+    color: #747474;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    text-align: center !important;
+}
+/* footer */
+#footer-ab{
+    background-color: #0B0D17;
+    margin-top: 150px;
+}
+#footer-ab p{
+    padding: 128px 0;
+    color: #D9DBE1;
+}
+.app h3{
+    font-weight: 500;
+    font-size: 18px;
+    color: #D9DBE1;
+    padding-top: 56px;
+}
+.app a img{
+    width: 135px;
+    height: 40px;
+}
